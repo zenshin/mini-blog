@@ -1,0 +1,17 @@
+{
+    "articles": [{
+        "id": 1,
+        "author": "Jonathan Collinet",
+        "title": "Titre",
+        "subTitle": "Sous-titre",
+        "date": "05/10/12",
+        "content": "Contenu Contenu Contenu Contenu Contenu!"
+    }],
+    "comments": [{
+        "id": 1,
+        "articleId": 1,
+        "author": "John",
+        "date": "06/10/12",
+        "content": "Ceci est un commentaire!"
+    }]
+}
