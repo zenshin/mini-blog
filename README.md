@@ -80,8 +80,6 @@ PATCH  /articles/1/comments/1   // modifie le commentaire id(1) pour l'article i
 DELETE /articles/1/comments/1   // supprime le commentaire id(1) de l'article id(1)
 ```
 
-D'autres routes sont disponible pour faire des liaison
-
 ### contenu:
 
 !!!NE PAS SE CONCENTRER SUR LE CSS!!!
