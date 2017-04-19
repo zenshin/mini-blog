@@ -96,22 +96,22 @@ Maintenant vous allez faire toute les manipulations nécessaire pour arriver à 
 
 En fait ce que vous allez faire, c'est créer/utiliser un CRUD (google).
 
-    1) page d'accueil (page de lecture)
-        - Un menu avec: "Accueil", "Ajouter un article", "Administrer les articles"
-        - Afficher tous les articles.
-        - Afficher pour chaque articles, la liste des commentaires.
-        - a la fin de la liste de commentaire, un formulaire permettant d'ajouter un commentaire.
+1) page d'accueil (page de lecture)
+    - Un menu avec: "Accueil", "Ajouter un article", "Administrer les articles"
+    - Afficher tous les articles.
+    - Afficher pour chaque articles, la liste des commentaires.
+    - a la fin de la liste de commentaire, un formulaire permettant d'ajouter un commentaire.
 
-    2) page "ajouter un article":
-        - un formulaire permettant d'ajouter un article au complet avec les champs renseigné dans le schéma (tous).
-        - un boutton d'envoi de l'article, qui va envoyer par le biai d'une requete l'article au serveur.
-        - une fois l'article envoyé, faire une redirection (front/navigateur) vers la page d'accueil.
+2) page "ajouter un article":
+    - un formulaire permettant d'ajouter un article au complet avec les champs renseigné dans le schéma (tous).
+    - un boutton d'envoi de l'article, qui va envoyer par le biai d'une requete l'article au serveur.
+    - une fois l'article envoyé, faire une redirection (front/navigateur) vers la page d'accueil.
 
-    3) page "administrer les articles" (page d'edition):
-        - Lister tous les articles, sans le contenu (c'est a dire juste le titre, l'autheur, la date et le sous-titre)
-        - pour chaque articles (par ligne):
-            - une icone "edit" qui lorsqu'on clique dessus, "collapse" l'article pour afficher un formulaire d'edition de l'article
-            - une icone "delete" qui lorsqu'on clique dessus, demande par une "confirm" si l'utilisateur est sûr de vouloir supprimer l'article.
+3) page "administrer les articles" (page d'edition):
+    - Lister tous les articles, sans le contenu (c'est a dire juste le titre, l'autheur, la date et le sous-titre)
+    - pour chaque articles (par ligne):
+        - une icone "edit" qui lorsqu'on clique dessus, "collapse" l'article pour afficher un formulaire d'edition de l'article
+        - une icone "delete" qui lorsqu'on clique dessus, demande par une "confirm" si l'utilisateur est sûr de vouloir supprimer l'article.
 
 ### consignes:
 
