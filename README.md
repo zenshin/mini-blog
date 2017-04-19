@@ -115,8 +115,12 @@ En fait ce que vous allez faire, c'est créer/utiliser un CRUD (google).
 
 ### consignes:
 
-Vous devez créer ce blog, le serveur et l'API vous ai fourni, vous avez à coder la partie cliente.
+Vous devez créer ce blog, le serveur et l'API vous sont fournis, vous avez plus qu'à coder la partie cliente.
 
 Pour ce faire vous allez manipuler les formulaires, faire des manipulation de DOM, des requetes XHR, ...
 
 N'oubliez pas qu'aujourd'hui vous avez toutes les clefs pour réaliser cet exercice.
+
+Allez-y étape par étape, ça ne sert à rien de vouloir faire le blog en entier du premier coup.
+
+Faites des tests, allez-y à tatons.
